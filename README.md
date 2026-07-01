@@ -150,6 +150,7 @@ CLAUDE.md
 
 ## 文档
 
+- [完整使用手册](docs/manual.md)
 - [架构说明](docs/architecture.md)
 - [快速开始](docs/quick-start.md)
 - [迁移已有 Vault](docs/migration.md)
@@ -176,4 +177,3 @@ CLAUDE.md
 ## 开源协议
 
 MIT License。见 [LICENSE](LICENSE)。
-
